@@ -48,7 +48,7 @@ FMOD_DSP_PARAMETER_DESC* PluginParameterDescriptions[2] =
 FMOD_DSP_DESCRIPTION BitCrusherPluginDescription =
 {
 	FMOD_PLUGIN_SDK_VERSION,
-	"BitCrusher",	// name
+	"BitCrusher",		// name
 	0x00000001,			// plug-in version
 	1,					// number of input buffers to process
 	1,					// number of output buffers to process
