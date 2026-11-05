@@ -66,3 +66,23 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# visual studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.*
+
+# build artifacts
+*.tlog
+*.lastbuildstate
+*.ipdb
+*.iobj
+*.idb
+*.exp
+*.dll.recipe
+
+# fmod files, temporarely removed
+studio/
+core/
+fsbank/inc/
